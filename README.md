@@ -16,12 +16,17 @@
     npm install axios
 
 # *Backend Setup*
-1.	*JSON Server Setput*
+1.	JSON Server Setput
 1.1.	Create new folder name as server
+
 1.2.	Create a file for the json database
-         eg. db.json
+            eg. db.json
+
 1.3.	Create a API
+
 1.4.	To install package.json file in the same directory
-         Command: npm init --yes
+            Command: npm init –yes
+
 1.5.	To install json-server
-         Command: npm install json-server
+            Command: npm install json-server
+
